@@ -1,0 +1,18 @@
+Shutao Bai, Bingpeng Ma, Hong Chang, Rui Huang, and Xilin Chen. Salient-to-Broad Transition for Video Person Re-identification. IEEE Computer Vision and Pattern Recognition, June 2022.
+抑制前序帧中突出的部分
+
+Xinqian Gu, Hong Chang, Bingpeng Ma, Shutao Bai, Shiguang Shan, and Xilin Chen. Clothes-Changing Person Re-identification with RGB Modality Only. IEEE Computer Vision and Pattern Recognition, June 2022.
+换装？
+
+Ruibing Hou, Hong Chang, Bingpeng Ma, Rui Huang and Shiguang Shan. BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification. IEEE Computer Vision and Pattern Recognition, June 2021.
+学习有效的时空表示？BiCnet-双分支特征互补
+
+Ruibing Hou, Hong Chang, Bingpeng Ma, Shiguang Shan and Xilin Chen. Temporal Complementary Learning for Video Person Re-Identification. European Conference on Computer Vision, August 2020. 
+时间对比学习？
+
+Xinqian Gu, Hong Chang, Bingpeng Ma, Hongkai Zhang and Xilin Chen. Appearance-Preserving 3D Convolution for Video-based Person Re-identification. European Conference on Computer Vision, August 2020. 
+3D卷积？
+
+Xinqian Gu, Hong Chang, Bingpeng Ma and Shiguang Shan. Motion Feature Aggregation for Video-based Person Re-identification. IEEE Trans. on Image Processing, vol. 31, 3908-3919, 2022.
+特征图的位移和随时间变化特征，作为新特征
+
